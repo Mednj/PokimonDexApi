@@ -13,15 +13,8 @@ Java application for Android
 
 ![PokeInfoActivity](https://user-images.githubusercontent.com/79825499/123153535-005d7200-d423-11eb-84ac-eab95f970155.jpg)
 
-## Contributing
-
-If you want to make a contribution, please follow the next steps:
-
-1. Fork the Project
-2. Create your feature branch (git checkout -b feature/newFeature)
-3. Commit your changes
-4. Push to the branch (git push origin feature/newFeature)
-5. Open a pull request
+##Pokeapi
+The project using the https://pokeapi.co/ for constructing RESTful API. PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
 ## Acknowledgments
 
